@@ -11,3 +11,5 @@ Collect the public tech blogs to summarize the work that we've been working on f
    - 摘要：主要介绍eBay基于IPVS的4层软件负载均衡的实践，结合iptables和BGP并且部署到生产环境。
 - [003：eBay网络云原生实践-2021中国网络开源技术生态峰会，2021.05.15]
    - 摘要：分享eBay在云原生网络方面的探索和实践，包括数据边缘和数据中心。
+- [004：eBay边缘节点的云原生网络实践，2021.08.27]
+   - 摘要：分享eBay边缘节点（POP)基于IPVS、Envoy以及Contour的云原生网络实践，替换边缘节点的硬件负载均衡设备。
