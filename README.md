@@ -13,3 +13,5 @@ Collect the public tech blogs to summarize the work that we've been working on f
    - 摘要：分享eBay在云原生网络方面的探索和实践，包括数据边缘和数据中心。
 - [004：eBay边缘节点的云原生网络实践，2021.08.27]
    - 摘要：分享eBay边缘节点（POP)基于IPVS、Envoy以及Contour的云原生网络实践，替换边缘节点的硬件负载均衡设备。
+- [005：eBay基于Istio的应用网关的探索和实践，2021.07.17]
+   - 摘要：分享eBay基于Istio的应用网关在多集群，多数据中心下的应用实践，以及如何构建高可用的架构
